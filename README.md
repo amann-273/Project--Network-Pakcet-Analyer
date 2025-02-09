@@ -110,6 +110,6 @@ For **IPv6**:
 - This script captures and displays live network data. Use it responsibly and ensure that you have permission to monitor the network you are on.
 - The script can run indefinitely until stopped. You can stop it by pressing `Ctrl+C`.
 
-## License
+## **Contact**
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+For any inquiries or issues related to this project, please feel free to reach out via (beingamann27.com).
